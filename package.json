@@ -1,0 +1,14 @@
+{
+  "name": "number-aggregator-stats",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "number-aggregator-stats": "index.js"
+  },
+  "main": "aggregator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
